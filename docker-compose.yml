@@ -5,5 +5,5 @@ services:
     image: gyaneshwer/notes-app:latest
     ports:
       - "8080:80" 
-    restarts: always
+    restart: always
     
