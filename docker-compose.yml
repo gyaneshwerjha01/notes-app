@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   notes-app:
-    image: gyaneshewr/notes-app:latest
+    image: gyaneshwer/notes-app:latest
     ports:
       - "8080:80" 
     restarts: always
